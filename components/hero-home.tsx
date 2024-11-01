@@ -21,7 +21,7 @@ export default function HeroHome() {
                 data-aos="fade-up"
                 data-aos-delay={200}
               >
-                基于企业私有数据构建私有向量库，通过LLM Ops中台开发基于私有向量库的AI应用。
+                基于企业私有数据构建私有向量库，业务人员通过LLM Ops中台开发基于私有向量库的AI应用。
               </p>
               <div className="mx-auto max-w-xs sm:flex sm:max-w-none sm:justify-center">
                 <div data-aos="fade-up" data-aos-delay={400}>
