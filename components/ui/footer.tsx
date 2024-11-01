@@ -151,17 +151,16 @@ export default function Footer() {
             </ul>
           </div> */}
           {/* 4th block */}
-          {/* <div className="space-y-2">
+          <div className="col-span-6 md:col-span-6 lg:col-span-6 lg:text-left">
             <h3 className="text-sm font-medium text-gray-200">
-              Content Library
+              企业信息
             </h3>
-            <ul className="space-y-2 text-sm">
-              <li>
+            <ul className="space-y-6 text-sm">
+            <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Templates
                 </a>
               </li>
               <li>
@@ -169,7 +168,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Tutorials
+                  电话：0571-88058596
                 </a>
               </li>
               <li>
@@ -177,7 +176,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Knowledge base
+                  邮箱：dachein.x@gmail.com
                 </a>
               </li>
               <li>
@@ -185,33 +184,24 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Learn
-                </a>
-              </li>
-              <li>
-                <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
-                >
-                  Cookie manager
+                  地址：广东省深圳市前海深港合作区南山街道兴海大道 3040号前海世茂金融中心二期 2402
                 </a>
               </li>
             </ul>
-          </div> */}
+          </div>
           {/* 5th block */}
           <div className="col-span-6 md:col-span-6 lg:col-span-6 lg:text-center">
             <div className="mb-3">
-              <Logo />
             </div>
             <div className="text-sm">
               <p className="mb-3 text-indigo-200/65">
-              Copyright © 2024 fargowealth.com.cn All Rights Reserved 
+              Copyright © 2024 fargowealth.cn All Rights Reserved 
                 <span className="text-gray-700"> · </span>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  华港咨询（深证）有限公司. 版权所有
+                  华港咨询（深证）有限公司 版权所有
                 </a>
               </p>
               <ul className="inline-flex gap-1">
