@@ -201,7 +201,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  华港咨询（深证）有限公司 版权所有
+                  华港咨询（深圳）有限公司 版权所有
                 </a>
               </p>
               <ul className="inline-flex gap-1">
