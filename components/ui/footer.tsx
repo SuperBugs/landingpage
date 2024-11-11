@@ -204,6 +204,11 @@ export default function Footer() {
                   华港咨询（深圳）有限公司 版权所有
                 </a>
               </p>
+              <p className="mb-3 text-indigo-200/65">
+                <a href="https://beian.miit.gov.cn/" target="_blank">
+                粤ICP备2021016611号-5
+                </a>
+              </p>
               <ul className="inline-flex gap-1">
                 <li>
                   <a
